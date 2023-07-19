@@ -6,7 +6,7 @@ Myles Brand Hall (I) 232
 John’s demo CollectionBuilder Sites:
 - [Rock Show](https://jawalsh.github.io/rock-show/), 
 [Rock Show repository](https://github.com/jawalsh/rock-show)
-- [Comic Book Paratexts](https://comics.indiana.edu/cbp/), [Comic Book Paratexts repository](https://github.com/jawalsh/comic-book-paratexts)
+- [Comic Book Paratexts](https://comics.indiana.edu/cbp/)
 
 
 *Associate Instructor:* [Alex Wingate](http://alexandraewingate.com), [alewinga@iu.edu](mailto:alewinga@iu.edu)  
