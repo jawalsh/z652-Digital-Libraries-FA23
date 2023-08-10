@@ -24,3 +24,19 @@
 * [Week 11](week11.md) _(2023-11-03)_: CollectionBuilder
 * [Week 12](week12.md) _(2023-11-10)_: CollectionBuilder
 * [Week 13](week13.md) _(2023-11-17)_: CollectionBuilder
+
+<!--
+Week 1 (2023-08-25): Introductions
+Week 2 (2023-09-01): GitHub & Markdown
+Week 3 (2023-09-08): CollectionBuilder Introduction
+Week 4 (2023-09-15): Metadata 1 (AW)
+Week 5 (2023-09-22): Metadata 2 (AW)
+Week 6 (2023-09-29): Image Objects 1
+Week 7 (2023-10-06): Image Objects 2
+Week 8 (2023-10-13): Fall Break
+Week 9 (2023-10-20): Text Objects 1 (AW)
+Week 10 (2023-10-27): Text Objects 2
+Week 11 (2023-11-03): CollectionBuilder
+Week 12 (2023-11-10): CollectionBuilder
+Week 13 (2023-11-17): CollectionBuilder
+-->
