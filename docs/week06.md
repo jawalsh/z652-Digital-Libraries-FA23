@@ -1,4 +1,4 @@
-# Week 9: Image Objects 1
+# Week 6: Image Objects 1
 
 ## Summary
 

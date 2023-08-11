@@ -1,4 +1,4 @@
-# Week 10: Image Objects 2
+# Week 7: Image Objects 2
 
 ## Summary
 This week we will learn about:

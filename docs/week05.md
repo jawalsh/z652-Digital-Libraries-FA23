@@ -1,4 +1,4 @@
-# Week 7: Metadata II
+# Week 5: Metadata 2
 
 ## Summary
 This week we will learn about controlled vocabularies and how they relate to metadata. We will also continue talking about interoperability and metadata.

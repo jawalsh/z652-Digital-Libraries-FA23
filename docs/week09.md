@@ -1,4 +1,4 @@
-# Week 4: Text Objects, Part 1
+# Week 9: Text Objects 1
 
 ## Summary
 We will learn about the digitization of text-based media, or “text objects,” like books, manuscripts, comics, notebooks, etc. We will learn about character encodings, optical character recognition (OCR), and typical workflows for text digitization.
