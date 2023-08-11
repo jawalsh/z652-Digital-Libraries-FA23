@@ -1,43 +1,42 @@
-# Week 10: Image Objects 2
+# Week 7: Metadata II
 
 ## Summary
-This week we will learn about:
-- International Image Interoperability Framework (IIIF) and software tools that support IIIF.
+This week we will learn about controlled vocabularies and how they relate to metadata. We will also continue talking about interoperability and metadata.
 ## Weekly Learning Objectives
-- *explain* the purpose of IIIF
-- *identify* use cases for IIIF functionality in digital libraries and digital scholarly projects
-- *use* a IIIF-enabled image viewer
-- *install* and *run* the [cantaloupe](https://cantaloupe-project.github.io/) IIIF image server.
- 
+- *Define* what a controlled vocabulary is
+- *Explain* what problems with information retrieval and organization a controlled vocabulary solves
+- *Identify* relevant controlled vocabularies and data value standards for a given item.
+- *Identify* relevant controlled vocabularies and data value standards for your CollectionBuilder project
+
 ## Before class: Readings, resources, and tasks
+### Controlled Vocabularies
+- Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 6 "Controlled Vocabularies for Improved Resource Discovery" (pp. 165-186)
 
-### Readings
-More digitization guidelines and best practices:
-- Federal Agencies Digital Guidelines Initiative. [Technical Guidelines for Digitizing Cultural Heritage Materials: Creation of Raster Image Files](http://www.digitizationguidelines.gov/guidelines/FADGI%20Federal%20%20Agencies%20Digital%20Guidelines%20Initiative-2016%20Final_rev1.pdf)
-- Library of Congress. [Technical Standards for Digital Conversion Of Text and Graphic Materials](http://memory.loc.gov/ammem/about/techStandards.pdf)
-International Image Interoperability Framework (IIIF)
-- Wikipedia. [International Image Interoperability Framework](https://en.m.wikipedia.org/wiki/International_Image_Interoperability_Framework)
-- O’Hearn, Meg (2020). <https://youtu.be/wVjrqsqzwNI>
-- Rabun, Sheila. “[What is IIF?](https://youtu.be/8LiNbf4ELZM)” 
-- [Everything you ever wanted to know about IIIF…](https://www.slideshare.net/mobile/Cogapp/everything-you-ever-wanted-to-know-about-iiif-but-were-too-afraid-to-ask)
+**Read the Wikipedia page for all the Getty vocabularies below, and then explore _at least one_ in more detail by reading the Getty “About” and “FAQ” pages and using the online search interface.**  
 
-Images in research
-- Lorang, E., Leen-Keat, S., Datla, M. V., & Kulwicki, S. (2015). “[Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections](http://www.dlib.org/dlib/july15/lorang/07lorang.html).”
+##### AAT
+-   [Art and Architecture Thesaurus](https://en.wikipedia.org/wiki/Art_%26_Architecture_Thesaurus). Wikipedia.
+-   [About the AAT](http://www.getty.edu/research/tools/vocabularies/aat/about.html). J. Paul Getty Trust.
+-   [ATT: Frequently Asked Questions](http://www.getty.edu/research/tools/vocabularies/aat/aat_faq.html). J. Paul Getty Trust.
 
-### Tasks
-- READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/21) by: Thursday, 5pm.
- 
+##### TGN
+-   [Getty Thesaurus of Geographic Names](https://en.wikipedia.org/wiki/Getty_Thesaurus_of_Geographic_Names). Wikipedia.
+-   [About the TGN](http://www.getty.edu/research/tools/vocabularies/tgn/about.html). J. Paul Getty Trust.
+-   [TGN: Frequently Asked Questions](http://www.getty.edu/research/tools/vocabularies/tgn/faq.html). J. Paul Getty Trust.
+
+##### ULAN
+-   [Union List of Artist Names](https://en.wikipedia.org/wiki/Union_List_of_Artist_Names). Wikipedia.
+-   [About the ULAN](http://www.getty.edu/research/tools/vocabularies/ulan/about.html). J. Paul Getty Trust.
+-   [ULAN: Frequently Asked Questions](http://www.getty.edu/research/tools/vocabularies/ulan/faq.html). J. Paul Getty Trust.
+
+### Interoperability and OAI-PMH
+- Witten, et al. (2009). Ch. 7 Interoperability: Protocols and Services. _How to Build a Digital Library._ **only** pp. 343-354.
+- Pomerantz, Jeffery. [Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)](https://youtu.be/fpz4fzKvVTg)
+- Research Data Netherlands. [Persistent Identifiers and Data Citation Explained](https://www.youtube.com/watch?v=PgqtiY7oZ6k)
+- [Persistent Identifers](https://transportation.libguides.com/persistent_identifiers)
+
 ## In class
-
-- Final projects. Where are you? Where should you be?
-- [Next week](week11.md)
-- [CBML/IIIF Demo](https://biblicon.org/fc15)
-- Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
-	- _Optional:_ Try the above tutorial with some comic book page images:
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_01.tif/full/max/0/default.jpg>
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_02.tif/full/max/0/default.jpg>
-		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_03.tif/full/max/0/default.jpg>
-- _Optional:_ Try installing [cantaloupe](https://cantaloupe-project.github.io) IIIF image server on your own machine.
-- [Metadata Crosswalking Lab](lab_metadata_crosswalk.md)
-- [HathiTrust Research Center: Overview](https://biblicon.org/reveal.js/htrc.html)
+- [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing)
+- Questions on project proposals
+- Questions on upcoming metadata assignment
+- [Controlled vocabulary lab](assignment_controlled_vocabulary_lab.md)

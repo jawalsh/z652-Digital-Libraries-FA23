@@ -1,51 +1,38 @@
-# Week 9: Image Objects 1
+# Week 6: Metadata, Part 1
 
 ## Summary
-
-This week we will learn about:
-
-- raster graphics (i.e., bitmap images) and vector graphics
-- image file formats
-- color profiles
-- ImageMagick
-- Batch processing in Photoshop
+We will learn about what metadata is, different types of metadata, what it's used for, and why it's important. We will also learn about a few different major metadata application profiles (also known as schemas) commonly used in digital libraries.
 
 ## Weekly Learning Objectives
-
-*   _define_ raster graphics.
-*   _define_ vector graphics.
-*   _describe_ the difference between raster graphics and vector graphics and use cases for each.
-*   _describe_ the characteristics of different types of image file formats (e.g., GIF, JPEG, JPEG2000, PNG, TIFF).
-*   _define_ color profiles and _explain_ how and why they are used.
-*   _use_ ImageMagick to convert and manipulate image files.
-*   _use_ Photoshop to perform a batch conversion of a set of image files.
+- _define_ metadata
+- _distinguish_ between types of metadata and metadata standards
+- _design_ "functional requirements" to guide creating a metadata application profile
+- _identify_ relevant Dublin Core elements for a given item
+- *identify* one or more example metadata application profiles that may serve as models for your CollectionBuilder project
 
 ## Before class: Readings, resources, and tasks
-
 ### Readings
-*   [Raster graphics](https://en.wikipedia.org/wiki/Raster_graphics). Wikipedia.
-*   [Vector graphics](https://en.wikipedia.org/wiki/Vector_graphics). Wikipedia.
-*   Witten, et al. Chapter 5, §1. pp. 215-221.
-*   Witten, et al. Chapter 5, §3. pp. 235-257.
-*   Library of Congress Recommended Format Specifications 2020–2021 [§II. Still Image Works](https://www.loc.gov/preservation/resources/rfs/index.html).
-*   Lynda.com: Digital Information: <https://www.lynda.com/Programming-Foundations-tutorials/Computer-Science-Principles-Digital-Information/454673-2.html>
-*   Lynda.com: Creating Optimized Web Graphics: <https://www.lynda.com/Sketch-tutorials/Creating-Optimized-Web-Graphics/480956-2.html>
+- Metadata basics
+  - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 1 "Introduction to Metadata for Digital Collections" (pp. 1-26) **See Canvas>Files>Readings**
+  - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 12 "Metadata Application Profile Design" (pp. 393-441) **See Canvas>Files>Readings**
+    - **Read** pp. 393-404; **skim** examples on pp. 404-441
+- Dublin Core, METS, MODS, and other standards
+  - [METS overview](https://www.loc.gov/standards/mets/METSOverview.v3_en.html)
+  - Riley, Jenn. (2017). [Understanding Metadata: What Is Metadata, and What Is It For?](https://www.niso.org/publications/understanding-metadata-2017). Baltimore, MD: National Information Standards Organization (NISO). **only pp. 27-39**
+  - [Dublin Core Basics: The Beginners Guide](http://paladini.github.io/dublin-core-basics/)
+  - [Dublin Core Metadata Element Set](https://guides.library.ucsc.edu/c.php?g=618773&p=4306386)
+- Metadata Application Profile assignment
+  - Skim the instructions for the [metadata application profile assignment](assignment_metadata_application_profile.md)
+  - Come to class with any initial questions
 
 ### Tasks
-- READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/19) by: Thursday, 5pm.
-
-- **INSTALL** ImageMagick
-    *   MacOS (option 1): If you have [homebrew](https://brew.sh/) installed, you can install ImageMagic from the Terminal command line with the commands:
-        *   `brew install imagemagick`
-        *   `brew install ghostscript`
-    *   MacOS (option 2): Download and run the [ImageMagick installer](https://imagemagick.org/script/download.php#macosx).
-    *   Windows: Download and run the [ImageMagick installer](https://imagemagick.org/script/download.php#windows).
-    *   Additional downloads and instructions are available at <https://imagemagick.org/script/download.php>.
-*   **INSTALL** Adobe Photoshop, part of the Creative Cloud suite, from <https://adobe.iu.edu/>.
+ - READ: Please complete the readings outlined above by: Thursday, 5pm.
+ - DISCUSS: Please complete this week's discussion by: Thursday, 5pm.
 
 ## In class
-- Demo of [Scalable Vector Graphic](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (SVG) files are used in a scholarly digital edition/collection, the [Petrarchive](http://petrarchive.org/).
-	- <https://github.com/Petrarchive/The-Petrarchive/blob/master/images/visindex/c003r.svg>
-- [ImageMagick Lab](lab_imagemagick.md)
-- [Photoshop Batch Processing Lab](lab_photoshop_batch.md)
+- Review of Markdown and XML labs
+- [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing)
+  - [SUCHO](https://www.sucho.org/) metadata guidelines
+- Discuss the metadata application profile assignment (due Week 9)
+- [Metadata and Functional Requirements Lab](assignment_metadata_practice.md)
+
