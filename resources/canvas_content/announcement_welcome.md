@@ -8,7 +8,7 @@ GitHub is commonly used in digital library projects (and throughout the digital 
 
 We will continue to use Canvas for submitting assignments, providing access to some readings, and a few other things.
 
-We are still updating the new GitHub course site, but general information and details for the first few weeks of class are already there. Please visit the course site at <https://jawalsh.github.io/z652-Digital-Libraries-FA23/> Links to an external site. and please note that there are readings and tasks to complete before our first class on Friday, August 26th. See [week 1](https://jawalsh.github.io/z652-Digital-Libraries-FA23/week01.html). in the [course schedule](https://jawalsh.github.io/z652-Digital-Libraries-FA23/).
+We are still updating the new GitHub course site, but general information and details for the first few weeks of class are already there. Please visit the course site at <https://jawalsh.github.io/z652-Digital-Libraries-FA23/> Links to an external site. and **please note that there are readings and tasks to complete before our first class on Friday, August 25th**. See [week 1](https://jawalsh.github.io/z652-Digital-Libraries-FA23/week01.html) in the [course schedule](https://jawalsh.github.io/z652-Digital-Libraries-FA23/).
 
 Thanks,
 
