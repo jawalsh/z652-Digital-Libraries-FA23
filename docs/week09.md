@@ -24,5 +24,5 @@ We will learn about the digitization of text-based media, or “text objects,”
 - Install Adobe Acrobat from <https://iuware.iu.edu/>. 
 
 ## In Class
-- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week04.html)
+- [slides](https://dcl.ils.indiana.edu/z652_slides/week09.html)
 - [OCR exercise](assignment_ocr_exercise.md)
