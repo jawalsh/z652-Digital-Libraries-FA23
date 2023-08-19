@@ -1,7 +1,7 @@
 # Week 4: Metadata 1
 
 ## Summary
-We will learn about what metadata is, different types of metadata, what it's used for, and why it's important. We will also learn about a few different major metadata application profiles (also known as schemas) commonly used in digital libraries.
+We will learn about what metadata is, different types of metadata, what it's used for, and why it's important. We will also learn about a few different major metadata application profiles (also known as schemas) commonly used in digital libraries. As we prep for writing out own metadata application profiles and building our CollectionBuilder sites more, we will also be practicing how to read and navigate documentation and how to write good documentation.
 
 ## Weekly Learning Objectives
 - _define_ metadata
@@ -16,6 +16,9 @@ We will learn about what metadata is, different types of metadata, what it's use
   - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 1 "Introduction to Metadata for Digital Collections" (pp. 1-26) **See Canvas>Files>Readings**
   - Miller, S. J. (2022) _Metadata for Digital Collections_, 2nd ed., Ch. 12 "Metadata Application Profile Design" (pp. 393-441) **See Canvas>Files>Readings**
     - **Read** pp. 393-404; **skim** examples on pp. 404-441
+- Documentation
+  - [Documenting recipes](https://goodfoodstudioza.com/recipe-writing-tips)
+  - [Documenting code](https://medium.com/larimaza-en/how-to-write-good-documentation-e19c70dc67f0)
 - Dublin Core, METS, MODS, and other standards
   - [METS overview](https://www.loc.gov/standards/mets/METSOverview.v3_en.html)
   - Riley, Jenn. (2017). [Understanding Metadata: What Is Metadata, and What Is It For?](https://www.niso.org/publications/understanding-metadata-2017). Baltimore, MD: National Information Standards Organization (NISO). **only pp. 27-39**
@@ -30,9 +33,8 @@ We will learn about what metadata is, different types of metadata, what it's use
  - DISCUSS: Please complete this week's discussion by: Thursday, 5pm.
 
 ## In class
-- Review of Markdown and XML labs
-- [Slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing)
+- [Slides]
   - [SUCHO](https://www.sucho.org/) metadata guidelines
-- Discuss the metadata application profile assignment (due Week 9)
-- [Metadata and Functional Requirements Lab](assignment_metadata_practice.md)
+- Discuss the metadata application profile assignment
+- Documentation Lab
 
