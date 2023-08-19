@@ -1,5 +1,5 @@
 # Metadata Application Profile  
-**Due Oct. 21 at 11:59pm**
+**Full draft due Oct. 06 at 11:59pm, final draft due Oct. 13 at 11:59pm**
 For this assignment, you will be designing the metadata application profile for your final project. The specified fields will include required CollectionBuilder fields, including required fields for visualization, optional CollectionBuilder fields that you are using for your project, and any custom fields that you create for your collection.
 
 The application profile will consist of the following parts:
@@ -7,7 +7,7 @@ The application profile will consist of the following parts:
 2. Selection and description of elements (fields) to be used for your project. 
 
 ## General guidelines
-1. The format and presentation of your Metadata Application Profile must be clear, readable, and well organized. You are encouraged to follow the models and examples found in Chapter 12 of Miller’s _Metadata for Digital Collections_ and in [“Metadata Application Profiles, Records, Functionality, and Quality Examples.”](https://www.alastore.ala.org/sites/default/files/MDC_Functionality-ApplicationProfiles-Records.pdf) from the companion website to Miller’s book, but you are also welcome to create your own variant of documentation.
+1. The format and presentation of your Metadata Application Profile must be clear, readable, and well organized. You may a) consult the examples found in Chapter 12 of Miller’s _Metadata for Digital Collections_ and in [“Metadata Application Profiles, Records, Functionality, and Quality Examples.”](https://www.alastore.ala.org/sites/default/files/MDC_Functionality-ApplicationProfiles-Records.pdf) from the companion website to Miller’s book, b) search the internet for alternate examples, or c) create your own structure and formatting. If you adapt an existing format for documentation, you **must** credit that inspiration *and* you should tailor it to your use case so that it makes sense. Remember that adapting it will involve removing or adding parts of the example's documentation since they were not written to fulfill the guidelines of this assignment.
 2. For any controlled vocabularies or syntax encoding schemes you plan on using, _be sure to provide a link to the relevant resource._
 3. There is no minimum or maximum length on this assignment. The goal is to describe and explain the functional requirements for your metadata based on the context, content, and users of the digital collection, and then provide clear documentation about the metadata application profile deriving from those functional requirements. Use whatever space and formatting you feel best in order to make your application profile clear to the reader.
 
@@ -34,4 +34,11 @@ For all fields specify:
 - notes, if relevant
 - examples
 
-## [Rubric](rubric_metadata_application_profile.md)
+## Grading
+[Rubric](rubric_metadata_application_profile.md)
+
+Grading will follow a 2-phase process:
+1. Full draft: a full draft of this assignment with all of the parts indicated in these directions will be due Oct. 06 at 11:59pm. These will be graded over the weekend and handed back on Oct. 9 with a provisional grade.
+2. Final draft: a final draft of this assignment with all of the parts indicated in these directions and incorporating any feedback will be due Oct. 13 at 11:59 pm.
+
+This assignment has a draft phase because documentation can be hard to write and metadata can be difficult to design. The goal is for you to think critically about what metadata will be best for your project based on your context, content, and users and to then document that metadata so that you or someone else can consistently and correctly create metadata according to your MAP. Therefore, you need the space to fail, flounder, and be creative—aka space to draft and revise. 
