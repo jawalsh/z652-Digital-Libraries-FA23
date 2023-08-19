@@ -5,7 +5,7 @@
 | Assignment                                                                | Points | Due Date   |
 | ------------------------------------------------------------------------- | ------ | ---------- |
 | [Final Project Proposal](assignment_final_project_proposal.md)            | 100     | 9/23/2022  |
-| [Metadata Application Profile](assignment_metadata_application_profile.md)| 200     | 10/21/2022 |
+| [Metadata Application Profile](assignment_metadata_application_profile.md)| 200     | draft due 10/06/2023; final due 10/13/2023 |
 | [Final Project](assignment_final_project.md)                              | 500     | 11/21/2022 |
 | Lab Exercises                                                             | 100     | n/a        |
 | Participation                                                             | 100     | n/a        |
