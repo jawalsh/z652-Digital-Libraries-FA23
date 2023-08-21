@@ -13,6 +13,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 - Villalobos, Ray. (2015). “Learning Markdown.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-markdown/welcome>
 
 ### Git and GitHub 
+- Sylor-Miller, K. & [Evans, J.](https://wizardzines.com) (n.d.). [“Oh Shit, Git!”](https://iu.instructure.com/files/161055437/download?download_frd=1). 
 - Villalobos, Ray. (2021). “Learning Git and GitHub.” _LinkedIn Learning_. <https://www.linkedin.com/learning/learning-git-and-github-14213624/>
 - Git Basics Episode 1: What is Version Control? <https://git-scm.com/video/what-is-version-control>
 - Git Basics Episode 2: What is Git? <https://git-scm.com/video/what-is-git>
