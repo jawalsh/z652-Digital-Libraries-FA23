@@ -44,7 +44,7 @@ We will be using the following tools, software, frameworks:
 * [W3Schools HTML element reference](https://www.w3schools.com/tags/default.asp)
 * [Butterick's Practical Typography](https://practicaltypography.com/)
 * [Linux/Mac Commandline Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/) (you'll mostly need the directory commands)
-* [Windows Commandline Cheat Sheet](https://serverspace.us/support/help/windows-cmd-commands-cheat-sheet/)
+* [Windows Commandline Cheat Sheet by Stephen Edwards at Columbia University](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
 
 ### IU Resources
 * [IT Training from UITS](http://ittraining.iu.edu)
