@@ -49,7 +49,7 @@ We will be using the following tools, software, frameworks:
 ### IU Resources
 * [IT Training from UITS](http://ittraining.iu.edu)
 * [IU Libraries' Digital Collections](http://dlib.indiana.edu/collections/)
-* [IU Digital Library Brown Bag Series]( https://libraries.indiana.edu/digital-library-brown-bag-series)
+* [Wednesday Noon Digital Scholarship Series](https://libraries.indiana.edu/wednesday-noon-digital-scholarship-series)
 - [Institute for Digital Arts and Humanities](https://idah.indiana.edu), especially see the [events]( https://idah.indiana.edu/news-events/) page.
 * [IU Metadata Discussion Group](https://blogs.libraries.iub.edu/metadata/)
 * LinkedIn Learning tutorials available through <https://one.iu.edu/>: Lots of great tutorials on programming, XML, Web development, and other IT topics. 
