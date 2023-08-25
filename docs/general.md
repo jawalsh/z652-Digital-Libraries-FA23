@@ -10,7 +10,7 @@ By the end of the semester students will will be able to digitize a collection o
 ## Learning Outcomes
 - Students will select appropriate digitization standards and best practices for different media types and compose project-specific digitization guidelines for a specific collection.
 - Students will select appropriate metadata standards and best practices for different types of content and intellectual domains and compose project-specific metadata guidelines for a specific collection.
-- Students will demonstrate expertise with the open source digital collections systems ([CollectionBuilder][cb], [Omeka][omekaorg]) by building a digital collection within one of these systems.
+- Students will demonstrate expertise with the open source digital collections systems ([CollectionBuilder](https://collectionbuilder.github.io), [Omeka](https://omeka.org)) by building a digital collection within one of these systems.
 - Through written text and online exhibitions, students will describe, introduce, and explain the significance of a collection.
 - Students will perform a number of specific technical tasks related to digital collection development. For example, students will be able to:
 	- apply XML schemas to create valid XML metadata files;
