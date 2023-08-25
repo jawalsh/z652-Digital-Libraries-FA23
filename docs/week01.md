@@ -38,6 +38,7 @@ This week we will go over some of the course basics, syllabus, and assignments. 
 - Contribute to the [“What are digital libraries?”](https://iu.instructure.com/courses/2169110/discussion_topics/12937141) discussion.
 
 ## In Class
-- Course introduction.
+- course [pre-test](https://iu.instructure.com/courses/2169110/quizzes/4034405).
+- course introduction.
 - [slides](https://dcl.ils.indiana.edu/z652_slides/week01.html).
 - [Exploring digital collections](https://github.com/jawalsh/z652-Digital-Libraries/discussions/13) activity.
