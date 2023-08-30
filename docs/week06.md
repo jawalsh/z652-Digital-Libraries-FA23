@@ -49,3 +49,4 @@ This week we will learn about:
 	- <https://github.com/Petrarchive/The-Petrarchive/blob/master/images/visindex/c003r.svg>
 - [ImageMagick Lab](lab_imagemagick.md)
 - [Photoshop Batch Processing Lab](lab_photoshop_batch.md)
+- [Windows Commandline Cheat Sheet by Stephen Edwards at Columbia University](https://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
