@@ -26,6 +26,7 @@ This week we will learn about Markdown, Git, and Github, technologies that will 
 
 ### In-class
 - [slides](https://dcl.ils.indiana.edu/z652_slides/week02.html)
-- [Markdown exercise](assignment_markdown_exercise.md).
+- [Markdown exercise](assignment_markdown_exercise.md)
+- [GitHub Starter](activity_github_starter.md) activity
 - GitHub/CollectionBuilder homework for [next week](week03.md).
 
