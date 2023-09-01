@@ -5,7 +5,7 @@
 
 2. On [github.com](https://github.com), create a new file `hello.md` in your new repository.
 
-3. On [github.com](https://github.com), add the text `Hello World!` to your repository.
+3. On [github.com](https://github.com), add the text `Hello World!` to your `hello.md` file in your repository.
 
 4. Commit the new file to your repository.
 
