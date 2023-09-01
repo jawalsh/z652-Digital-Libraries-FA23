@@ -26,3 +26,7 @@
 
 1. Go to [github.com](https://github.com) and view the changed `hello.md` file.
 2. Download [this text file](getting-started-with-git-lab.txt), complete, save as a markdown document (.md) and turn in to [Canvas](https://iu.instructure.com/courses/2169110/assignments/15430059).
+- Text for footnote question:
+Main text: Alex Wingate went to William and Mary.(place footnote here)
+Footnote text: William and Mary is a university in Williamsburg, VA founded in 1693.
+Bonus: make "William and Mary" a hyperlink to W&M's website. 
