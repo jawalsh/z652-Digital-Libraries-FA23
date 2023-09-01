@@ -25,3 +25,4 @@
 # Review
 
 1. Go to [github.com](https://github.com) and view the changed `hello.md` file.
+2. Download [this markdown document](getting-started-with-git-lab.md), complete and turn in to Canvas.
