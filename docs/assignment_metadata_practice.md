@@ -7,7 +7,7 @@ In this lab, we'll be practicing the following:
 4. creating good documentation
 
 The lab itself has two parts which we'll accomplish over the next week. 
-## Part I (in-class Sept. 15; due 11:59pm Sept. 15)
+## Part I (in-class Sept. 15; due 11:59pm Sept. 18)
 ### Instructions
 On Canvas, there's a folder in Files called "Metadata and Documentation Lab". Within it, there are two folders: "A Items" and "B Items". Consult the text file also in that folder to see whether you are in Group A or Group B. 
 
@@ -20,7 +20,7 @@ From those functional requirements, decide on 6 metadata fields plus their cardi
 Then describe one of the items you have using this prototype metadata application profile (MAP) to serve as an example record. 
 
 ### What to turn in
-- List which group you're in
+- List which group you're in, but do not put your name on your paper!
 - A title for the hypothetical digital library
 - Brief (1-3 sentences) description of the context, users, and content.
 - List of functional requirements
@@ -40,7 +40,7 @@ In the next step, you'll be trading prototype MAPs with a person from the other 
 
 Therefor, write and organize your MAP (aka, your documentation!) knowing that another person will be using it to create metadata! Use headings, lists, tables, etc. to make your documentation easy to navigate and read.
 
-## Part II (at home; due 5pm September 21)
+## Part II (in class September 22; due 11:59pm September 25)
 You will receive from Alex the prototype MAP of another person from the group opposite yours. 
 
 Using this MAP, you will be creating metadata for the four items in the opposite group's folder and peer reviewing your classmate's prototype MAP. 
@@ -54,6 +54,9 @@ Using this MAP, you will be creating metadata for the four items in the opposite
     - What was particularly helpful about this documentation? (e.g., organization, layout, wording of instructions, etc.)
     - What parts of the documentation need more clarification/explanation? Were there any points were you were confused?
     - Any other suggestions for improvement
+5. Finally, write a short reflection (150-300 words) about your experience writing documentation and interpreting someone else's documentation. 
 ### What to turn in
+Do not put your name on either file!
 1. CSV file with metadata for the four items
 2. Markdown file with response to peer-review questions
+3. Reflection on writing documentation
