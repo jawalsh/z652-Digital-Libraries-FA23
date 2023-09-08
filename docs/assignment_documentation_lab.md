@@ -6,6 +6,8 @@ In this lab, we'll practice reading documentation and looking for answers to our
 3. [Alex's TEI guidelines for archival transcription](https://alexandraewingate.com/projects/encoding-guidelines-for-initial-archival-tei-transcription/)
 
 Answer the following questions using the documentation above. Turn in your completed Markdown file to the assignment on Canvas.
+**Download a text file copy of the questions [here](assignment_documentation_lab.txt)**
+
 ## Collection Builder
 ***For all answers in this section, give the answer and the URL of the page where you found it.***
 
