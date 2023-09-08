@@ -36,10 +36,10 @@ We will learn about what metadata is, different types of metadata, what it's use
 ## In class
 - Documentation
   - Slides
-  - Documentation Lab
+  - [Documentation Lab](assignment_documentation_lab.md)
 - Metadata
   - Slides
   - [SUCHO](https://www.sucho.org/) metadata guidelines
-  - Discuss the metadata application profile assignment
-  - Metadata lab
+  - Discuss the [metadata application profile assignment](assignment_metadata_application_profile.md)
+  - [Metadata lab](assignment_metadata_practice.md)
 
