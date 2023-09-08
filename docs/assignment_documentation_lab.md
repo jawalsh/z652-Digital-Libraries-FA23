@@ -39,6 +39,7 @@ Answer the following questions using the documentation above. Turn in your compl
 2. **When should `<damage>` be used instead of `<gap>`?**
 
 3. **How would you indicate that a word is repeated in the following code block?**
+   
 ```xml
 <p>
 The quick brown fox jumped over the the lazy dog.
