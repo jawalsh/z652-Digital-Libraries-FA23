@@ -42,6 +42,9 @@ This week we will learn about controlled vocabularies and how they relate to met
 - Contribute to this week's discussion on Canvas
 
 ## In class
-- [slides]
+- Controlled Vocabularies
+    - [slides]
+    - Controlled Vocabulary Lab
 - Questions on upcoming metadata assignment
-- Metadata application profile and functional requirements lab
+- Metadata and Documentation continued
+    - [Metadata lab Part II](assignment_metadata_practice_2.md)

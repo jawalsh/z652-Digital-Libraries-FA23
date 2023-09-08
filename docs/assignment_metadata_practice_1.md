@@ -4,7 +4,7 @@ In this lab, we'll be practicing the following:
 2. creating functional requirements for a digital library
 3. creating a MAP for metadata creation
 4. following documentation to create metadata
-4. creating good documentation
+5. creating good documentation
 
 The lab itself has two parts which we'll accomplish over the next week. 
 ## Part I (in-class Sept. 15; due 11:59pm Sept. 18)

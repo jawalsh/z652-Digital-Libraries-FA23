@@ -41,5 +41,5 @@ We will learn about what metadata is, different types of metadata, what it's use
   - Slides
   - [SUCHO](https://www.sucho.org/) metadata guidelines
   - Discuss the [metadata application profile assignment](assignment_metadata_application_profile.md)
-  - [Metadata lab](assignment_metadata_practice.md)
+  - [Metadata lab Part I](assignment_metadata_practice_1.md)
 
