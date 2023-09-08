@@ -6,6 +6,8 @@ In this lab, we'll practice reading documentation and looking for answers to our
 3. [Alex's TEI guidelines for archival transcription](https://alexandraewingate.com/projects/encoding-guidelines-for-initial-archival-tei-transcription/)
 
 Answer the following questions using the documentation above. Turn in your completed Markdown file to the assignment on Canvas.
+**Download a text file copy of the questions [here](assignment_documentation_lab.txt)**
+
 ## Collection Builder
 ***For all answers in this section, give the answer and the URL of the page where you found it.***
 
@@ -22,6 +24,7 @@ Answer the following questions using the documentation above. Turn in your compl
 11. **Which file controls the display options for most of your website?**
 12. **How can you separate multiple values in a single field in your metadata file?**
 13. **Find the example code for including a PDF from your collection (with a caption) on one of your interpretive pages (hint: start with the "Feature Includes" page)**
+
 ## SUCHO Metadata
 1. **Which metadata fields are always required for a SUCHO item?**
 2. **What character separates multiple values in Column E and Column F?**
@@ -29,6 +32,7 @@ Answer the following questions using the documentation above. Turn in your compl
 4. **What is the cardinality of the field "date?""**
 5. **What would be the correctly formatted value for the field "Host Location" for an item held by an institution in Lviv, the capital of Ukraine's Lviv Oblast?** 
 6. **If you wanted to indicate that you were working on a row in our metadata spreadsheet, how would you do that?**
+   
 ## Alex's TEI guidelines
 1. **What tag should be used to indicate deleted text?**
 

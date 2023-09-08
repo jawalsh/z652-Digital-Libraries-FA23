@@ -34,8 +34,12 @@ We will learn about what metadata is, different types of metadata, what it's use
  - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2169110/discussion_topics/13029443) by: Thursday, 5pm.
 
 ## In class
-- [Slides]
+- Documentation
+  - Slides
+  - [Documentation Lab](assignment_documentation_lab.md)
+- Metadata
+  - Slides
   - [SUCHO](https://www.sucho.org/) metadata guidelines
-- Discuss the metadata application profile assignment
-- Documentation Lab
+  - Discuss the [metadata application profile assignment](assignment_metadata_application_profile.md)
+  - [Metadata lab](assignment_metadata_practice.md)
 
