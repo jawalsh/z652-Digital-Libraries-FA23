@@ -15,7 +15,7 @@ Each group has PDFs pages from 5 cookbooks. These items will serve as representa
 
 Take some time to examine these items. From these items, think about a potential context and users to go with the content for the hypothetical digital library of these items, then come up with some functional requirements for the digital library. 
 
-From those functional requirements, decide on 6 metadata fields plus their cardinality, obligation, content guidelines, any controlled vocabularies (e.g., Library of Congress Subject Headings), and mapping to Dublin Core. 
+From those functional requirements, decide on 6 metadata fields plus their cardinality, obligation, content guidelines, and mapping to Dublin Core. 
 
 Then describe one of the items you have using this prototype metadata application profile (MAP) to serve as an example record. 
 
@@ -28,9 +28,9 @@ Then describe one of the items you have using this prototype metadata applicatio
     - cardinality
     - obligation
     - content guidelines
-    - controlled vocabularies (if applicable, must include link to controlled vocabulary or list of items if it is a controlled vocabulary you design)
     - mapping to Dublin Core
     - notes (if necessary)
+    - Optionally, you can link to controlled vocabularies (must include link to controlled vocabulary or list of items if it is a controlled vocabulary you design)
 - 1 metadata record based on the metadata application profile. 
 
 When you are finished, turn this prototype MAP into Canvas as Word, PDF, or Markdown file.
