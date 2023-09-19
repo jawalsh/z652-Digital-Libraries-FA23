@@ -42,9 +42,11 @@ This week we will learn about controlled vocabularies and how they relate to met
 - Contribute to this week's [discussion on Canvas](https://iu.instructure.com/courses/2169110/discussion_topics/13058411)
 
 ## In class
+- Review of Markdown lab answers
 - Controlled Vocabularies
     - [slides]
     - [Controlled Vocabulary Lab](assignment_controlled_vocabulary_lab.md)
-- Questions on upcoming metadata assignment
+- Review of metadata
+- Review of upcoming metadata assignment
 - Metadata and Documentation continued
     - [Metadata lab Part II](assignment_metadata_practice_2.md)
