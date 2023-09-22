@@ -6,7 +6,7 @@ In this lab, we'll be practicing the following:
 4. following documentation to create metadata
 5. creating good documentation
 
-## Part II (in class September 22; due 11:59pm September 25)
+## Part II (in class September 22; due 11:59pm September 26)
 You will receive from Alex the prototype MAP of another person from the group opposite yours. 
 
 Using this MAP, you will be creating metadata for the four items in the opposite group's folder and peer reviewing your classmate's prototype MAP. 
@@ -21,7 +21,7 @@ Using this MAP, you will be creating metadata for the four items in the opposite
     - What was particularly helpful about this documentation? (e.g., organization, layout, wording of instructions, etc.)
     - What parts of the documentation need more clarification/explanation? Were there any points were you were confused?
     - Any other suggestions for improvement
-5. Finally, write a short reflection (150-300 words) about your experience writing documentation and interpreting someone else's documentation. 
+5. Finally, write a short reflection (100-150 words) about your experience writing documentation and interpreting someone else's documentation. 
 
 ### What to turn in
 1. CSV file with metadata for the four items 
