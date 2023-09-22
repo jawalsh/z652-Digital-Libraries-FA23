@@ -2,7 +2,7 @@
 
 In groups of 2-3 (you may choose your groups), you will be researching controlled vocabularies. If you want to be strategic, look for controlled vocabularies that would potentially be useful to your prospective final projects. 
 
-Collectively, you need to identify and describe at least 6 controlled vocabularies.
+Collectively, you need to identify and describe at least 4 controlled vocabularies.
 
 For each vocabulary:
 1. Give a brief description of what the vocabulary describes (e.g., the TGM is used to describe geographic places)
