@@ -15,16 +15,15 @@
 * [Week 5](week05.md) _(2023-09-22)_: Metadata 2 <!-- AW -->
 	<!--- [slides](https://ella.sice.indiana.edu/~jawalsh/z652_slides/week05.html)-->
 * [Week 6](week06.md) _(2023-09-29)_: Image Objects 1
-	- [slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing)
 * [Week 7](week07.md) _(2023-10-06)_: Image Objects 2
-    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing)
 * [Week 8](week08.md) _(2023-10-13)_: Fall Break
 * [Week 9](week09.md) _(2023-10-20)_: Text Objects 1 <!-- AW -->
 * [Week 10](week10.md) _(2023-10-27)_: Text Objects 2
 * [Week 11](week11.md) _(2023-11-03)_: CollectionBuilder
 * [Week 12](week12.md) _(2023-11-10)_: CollectionBuilder
 * [Week 13](week13.md) _(2023-11-17)_: CollectionBuilder
-
+<!--	- [slides](https://docs.google.com/presentation/d/1KRezfqcwiGF-El9DrGCmBEJzxrkhSHDwzPGZdHWi87U/edit?usp=sharing) -->
+<!--    - [slides](https://docs.google.com/presentation/d/1lZgy5000Hr9wlE0sfyeLTN1k_fmMKrR4RzxOzhROxa0/edit?usp=sharing) -->
 <!--
 Week 1 (2023-08-25): Introductions
 Week 2 (2023-09-01): GitHub & Markdown
