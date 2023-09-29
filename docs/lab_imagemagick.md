@@ -61,6 +61,7 @@ The 3 numbers represent: brightness, saturation, and hue. They are all interpret
 3. Use imagemagick to crop the `comics.tif` images so you have an image file with just the title panel:
 	- ![Samson and David title panel](images/title_thumb.jpg)
 2. Spend a few minutes experimenting with the commands above, then review the documentation at <https://www.imagemagick.org/script/command-line-processing.php> and <https://www.imagemagick.org/script/command-line-tools.php> and explore some commands on your own. You might also try searching the internet for things like "imagemagick watermark" for instructions on how to use imagemagick to put a watermark on your images. Or try one of these short tutorials:
+	* [Another list of ImageMagick commands](https://imagemagick.org/script/command-line-options.php)
 	* <https://www.linuxjournal.com/content/easy-watermarking-imagemagick>
 	* <https://www.brianlinkletter.com/process-images-for-your-blog-with-imagemagick/>
 
