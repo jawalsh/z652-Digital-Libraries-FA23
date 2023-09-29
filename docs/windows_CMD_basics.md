@@ -20,6 +20,11 @@
 - create directories
 	- `md foldername`
 	- example: while in Desktop `md Google_Books` creates a folder called "Google_Books" in Desktop
+- create text file
+  	- `copy con filename.txt`
+  	  	- Type text directly in command prompt, hit Ctrl+Z and then Enter to save
+	- `echo textcontent > filename.txt`
+   		- `echo Hello World! > file1.txt`
 - delete files
 	- `del filename`
 	- example: `del file1.txt`
