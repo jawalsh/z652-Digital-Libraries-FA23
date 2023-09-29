@@ -52,7 +52,7 @@ The 3 numbers represent: brightness, saturation, and hue. They are all interpret
 
 # Lab
 
-1. Download sample image file: <http://jawalsh.luddy.indiana.edu/teaching/z652/sample_images.zip>
+1. Download sample image file: <https://jawalsh.luddy.indiana.edu/teaching/z652/sample_images.zip>
 1. Run some imagemagick commands to convert your tiff files to 3 different sizes of jpg files:
 	* a “large” file that is 1000 pixels long on its longest side
 	* a “medium” file that 500 pixels long on its longest side
