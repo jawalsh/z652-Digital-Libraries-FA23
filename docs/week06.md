@@ -47,7 +47,7 @@ This week we will learn about:
 ## In class
 - Command-Line Basics:
 	- [MacOS slides](https://jawalsh.luddy.indiana.edu/z652_slides/week_06_command-line.html)
-	- Windows
+	- [Windows notes](windows_CMD_basics.md)
 	- [Command-line practice](lab_cli.md)
 - Demo of [Scalable Vector Graphic](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) (SVG) files are used in a scholarly digital edition/collection, the [Petrarchive](http://petrarchive.org/).
 	- <https://github.com/Petrarchive/The-Petrarchive/blob/master/images/visindex/c003r.svg>
