@@ -1,0 +1,43 @@
+- change directories
+	- `cd filepath`
+	- example: `cd Desktop/IA` to get to "IA" folder on Desktop
+- move up one directory
+	- `cd ..`
+	- example: If I'm in the IA folder in Desktop and want to go back up to Desktop, I used `cd ..`
+- ../ and ./ or ..\ .\
+	- use `\` on Windows to separate folders in the file path
+- create directories
+	- `md foldername`
+	- example: while in Desktop `md Google_Books` creates a folder called "Google_Books" in Desktop
+- list files/folders: 
+	- `dir`
+	- example: typing `dir` while in the Desktop folder will show you all folder and files in Desktop
+- Where am I?: 
+	- Windows shows you where you are in the file path automatically
+- delete files
+	- `del filename`
+	- example: `del file1.txt`
+- copy files (to a new name, to a new directory)
+	- `copy filepath-from filepath-to`
+	- example: while in Desktop `copy file1.txt IA\file1.txt`
+		- Copies file1.txt to IA folder in Desktop. There's one copy in Desktop and one in IA
+	- example: while in Desktop `copy file1.txt IA\file2.txt`
+		- Copies file1.txt to IA folder in Desktop and renames as file2.txt. There's one copy in Desktop and one in IA
+- move files
+	- `move filepath-from folder-to\`
+	- example: while in Desktop `move file1.txt IA\`
+		- Moves file1.txt from Desktop to IA folder
+- %PATH%: the list of directories/folders where the OS looks for commands when you type a command
+	- Hit Start button and search for environmental variables so that "Edit the system environmental variables" comes up
+	- Click "environmental variables"
+	- In the system under "System variables", select "Path" so it is highlighted, then click "Edit". A new window will pop up
+	- Click "New" and type the filepath to where the folder for the executable command is on your computer (usually you've installed it in one of the program files folder)
+- Commands must know the file path of images/documents they are working on. Providing complete path to files or being in the same directory as the files. Do that as part of copy or delete.
+	- Example: To copy a file in Desktop you can...
+		- navigate so that you are "in" the Desktop folder using `cd`. Then you only need to type the file name in the first part of copy: `copy file1.txt C:\Users\Alex\Documents\file1.txt`
+		- Be in any folder and give the whole path to the Desktop: `copy C:\Users\Alex\Desktop\file1.txt C:\Users\Alex\Documents\file1.txt`
+- open a file in the GUI (graphic user interface) from the command line: 
+	- Just type filename with extension (e.g., file1.txt) and hit enter
+- Navigating inside the command prompt window
+	- Use up arrow to display previous commands
+	- Use left and right arrows to move cursor inside your command
