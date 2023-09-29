@@ -1,20 +1,20 @@
 # Windows Command Line Basics
+- list files/folders: 
+	- `dir`
+	- example: typing `dir` while in the Desktop folder will show you all folder and files in Desktop
+- Where am I?: 
+	- Windows shows you where you are in the file path automatically
+ - ../ and ./ or ..\ .\
+	- use `\` on Windows to separate folders in the file path
 - change directories
 	- `cd filepath`
 	- example: `cd Desktop/IA` to get to "IA" folder on Desktop
 - move up one directory
 	- `cd ..`
 	- example: If I'm in the IA folder in Desktop and want to go back up to Desktop, I used `cd ..`
-- ../ and ./ or ..\ .\
-	- use `\` on Windows to separate folders in the file path
 - create directories
 	- `md foldername`
 	- example: while in Desktop `md Google_Books` creates a folder called "Google_Books" in Desktop
-- list files/folders: 
-	- `dir`
-	- example: typing `dir` while in the Desktop folder will show you all folder and files in Desktop
-- Where am I?: 
-	- Windows shows you where you are in the file path automatically
 - delete files
 	- `del filename`
 	- example: `del file1.txt`
