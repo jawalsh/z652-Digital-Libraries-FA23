@@ -26,7 +26,7 @@ Images in research
 
 ### Tasks
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
-- DISCUSS: Please complete [this week's discussion](https://github.com/jawalsh/z652-Digital-Libraries/discussions/21) by: Thursday, 5pm.
+- DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2169110/discussion_topics/13086731) by: Thursday, 5pm.
  
 ## In class
 
