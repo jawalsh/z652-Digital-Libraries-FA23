@@ -1,15 +1,28 @@
 # Rubric: Metadata Application Profile
-- 4 &mdash; Exceptional 
-- 3 &mdash; Good 
-- 2 &mdash; Acceptable 
-- 1 &mdash; Unacceptable
+## Checklist of items
+### Description of context, content, and users
+- Fully describes context, content, and users
+- Lists specific functional requirements
+- Clear connection between metadata elements (fields) and functional requirements
+### Documentation of elements
+- Includes all required CollectionBuilder elements
+- Includes at least two CollectionBuilder visualization elements
+- Includes any applicable optional Collection Builder elements
+- Includes at least one new custom element
+- For each element, the following are specified:
+  - cardinality
+  - obligation
+  - content guidelines
+  - (if relevant) applicable controlled vocabularies or syntax encoding schemes (must have link)
+  - mapping to Dublin Core
+  - example(s)
+  - notes (if relevant)
 
-| Element                                                                                               | Score &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| ----------------------------------------------------------------------------------------------------- | ----- |
-| **Includes all assignment components**<br/> Each component of the assignment is present and complete. | 4 3 2 1 |
-| **Coherent design**<br/> There is a clear connection between metadata fields and functional requirements. The chosen fields and choices for cardinality, obligation, controlled vocabularies, syntax encoding schemes, and/or content guidelines facilitate the stated functional requirements. | 4 3 2 1 |
-| **Documentation**<br/> Complete, informative, and logical documentation for individual metadata elements. Each element is fully documented with information about obligation, cardinality, and relevant vocabulary, syntax, and content standards and guidelines. Examples relevant to your collection are included for each element. | 4 3 2 1 |
-| **Structure and organization**<br/> Application profile has a strong and clear organization; appropriate use of headings; typography is used to aid readability; appropriate use of tables and lists; links to various standards are included and working. | 4 3 2 1 |
-| **Mechanics**<br/> Very few or no sentence-level errors in expression, grammar, spelling, citations | 4 3 2 1 |
+## Overall factors
+- **Includes all assignment components**: Each component of the assignment is present and complete.
+- **Coherent design**: There is a clear connection between context, content, users, functional requirements, and the metadata elements chosen. The chosen elements and choices for cardinality, obligation, controlled vocabularies, syntax encoding schemes, and/or content guidelines facilitate the stated functional requirements.
+- **Documentation**: Complete, informative, and logical documentation for individual metadata elements. Each element is fully documented with information about obligation, cardinality, and relevant vocabulary, syntax, and content standards and guidelines. Examples relevant to your collection are included for each element.
+- **Structure and organization**: Application profile has a strong and clear organization; appropriate use of headings; typography is used to aid readability; appropriate use of tables and lists; links to various standards are included and working.
+- **Mechanics**: Very few or no sentence-level errors in expression, grammar, spelling, citations
 
 **20 points total**
