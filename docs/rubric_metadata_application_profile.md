@@ -19,10 +19,10 @@
   - notes (if relevant)
 
 ## Overall factors
-- **Includes all assignment components**: Each component of the assignment is present and complete.
-- **Coherent design**: There is a clear connection between context, content, users, functional requirements, and the metadata elements chosen. The chosen elements and choices for cardinality, obligation, controlled vocabularies, syntax encoding schemes, and/or content guidelines facilitate the stated functional requirements.
-- **Documentation**: Complete, informative, and logical documentation for individual metadata elements. Each element is fully documented with information about obligation, cardinality, and relevant vocabulary, syntax, and content standards and guidelines. Examples relevant to your collection are included for each element.
-- **Structure and organization**: Application profile has a strong and clear organization; appropriate use of headings; typography is used to aid readability; appropriate use of tables and lists; links to various standards are included and working.
-- **Mechanics**: Very few or no sentence-level errors in expression, grammar, spelling, citations
+- **Includes all assignment components**: Each component of the assignment is present and complete. (40 points)
+- **Coherent design**: There is a clear connection between context, content, users, functional requirements, and the metadata elements chosen. The chosen elements and choices for cardinality, obligation, controlled vocabularies, syntax encoding schemes, and/or content guidelines facilitate the stated functional requirements. (40 points)
+- **Documentation**: Complete, informative, and logical documentation for individual metadata elements. Each element is fully documented with information about obligation, cardinality, and relevant vocabulary, syntax, and content standards and guidelines. Examples relevant to your collection are included for each element. (40 points)
+- **Structure and organization**: Application profile has a strong and clear organization; appropriate use of headings; typography is used to aid readability; appropriate use of tables and lists; links to various standards are included and working. (40 points)
+- **Mechanics**: Very few or no sentence-level errors in expression, grammar, spelling, citations (40 points)
 
 **200 points total**
