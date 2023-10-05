@@ -25,4 +25,4 @@
 - **Structure and organization**: Application profile has a strong and clear organization; appropriate use of headings; typography is used to aid readability; appropriate use of tables and lists; links to various standards are included and working.
 - **Mechanics**: Very few or no sentence-level errors in expression, grammar, spelling, citations
 
-**20 points total**
+**200 points total**
