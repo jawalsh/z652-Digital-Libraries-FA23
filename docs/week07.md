@@ -47,4 +47,4 @@ Images in research
 		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_02.tif/full/max/0/default.jpg>
 		- <http://images.biblicon.org/iiif/3/fantastic_comics_015_pg_03.tif/full/max/0/default.jpg>
 - _Optional:_ Try installing [cantaloupe](https://cantaloupe-project.github.io) IIIF image server on your own machine.
-- [HathiTrust Research Center: Overview](https://biblicon.org/reveal.js/htrc.html)
+- [HathiTrust Research Center: Overview](https://biblicon.org/reveal.js/htrc_maastricht.html)
