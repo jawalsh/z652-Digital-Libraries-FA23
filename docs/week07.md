@@ -27,11 +27,19 @@ Images in research
 ### Tasks
 - READ: Please complete the readings outlined above by: Thursday, 5pm.
 - DISCUSS: Please complete [this week's discussion](https://iu.instructure.com/courses/2169110/discussion_topics/13086731) by: Thursday, 5pm.
+
+### Reference links
+- [Universal Viewer](https://github.com/UniversalViewer/universalviewer) (IIIF Viewer)
+- IU Projects using IIIF
+	- [Charles W. Cushman Kodachrome Slides](https://digitalcollections.iu.edu/collections/2801pg36g?locale=en)
+	- [University Archives Digital Collections](https://digitalcollections.iu.edu/collections/g732d9039?locale=en)
+	- [Richard G. Lugar Senatorial Papers](https://collections.libraries.indiana.edu/lugar/?tags=Costa+Rica&output=omeka-xml)
+- Other examples:
+	- [E-Codices - Virtual Manuscript Library of Switzerland](https://www.e-codices.unifr.ch/en/list/one/csg/1092)
+	
  
 ## In class
-
-- Final projects. Where are you? Where should you be?
-- [Next week](week11.md)
+- [Next week](week08.md)
 - [CBML/IIIF Demo](https://biblicon.org/fc15)
 - Stephens, Owen. (2016). “[Introduction to APIs Using IIIF](http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/). _Overdue Ideas_. <http://www.meanboyfriend.com/overdue_ideas/2016/06/introduction-to-apis-using-iiif/>
 	- _Optional:_ Try the above tutorial with some comic book page images:
