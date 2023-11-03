@@ -23,10 +23,10 @@ This week we will learn about:
 ## Before class: Readings, resources, and tasks
 
 - Read the following sections from the CollectionBuilder documentation and try out some of the configuration options with your own site. _**Don’t just read the pages below, but follow the links on each page to read the all the subsections as well**_:
-	- [Initial Site Configuration](https://collectionbuilder.github.io/cb-docs/docs/config/)
-	- [Theme Configuration](https://collectionbuilder.github.io/cb-docs/docs/theme/)
-	- [Configure and Customize Pages](https://collectionbuilder.github.io/cb-docs/docs/customization/)
-		-[Add page](https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/)
+- [Initial Site Configuration](https://collectionbuilder.github.io/cb-docs/docs/config/)
+- [Theme Configuration](https://collectionbuilder.github.io/cb-docs/docs/theme/)
+- [Configure and Customize Pages](https://collectionbuilder.github.io/cb-docs/docs/customization/)
+	-[Add page](https://collectionbuilder.github.io/cb-docs/docs/pages/add_page/)
 	
 There will be no discussion this week, but you should post questions or insights about your work with your CollectionBuilder site to our [Technical questions and  help](https://github.com/jawalsh/z652-Digital-Libraries/discussions/9) discussion. 
  
