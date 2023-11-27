@@ -44,3 +44,6 @@ In Canvas, submit:
 
 - See [rubric](rubric_final_project.md).
 
+## Sample projects from past semesters
+- Erin Walden: <https://erinwalden.github.io/bookmarked/>
+
