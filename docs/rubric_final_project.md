@@ -5,9 +5,9 @@
 ## C Grade
 _For a grade of C your prototype must be complete and competent and demonstrate your ability to implement a collection using [CollectionBuilder][cb]._
 - Complete all the assignment components outlined in the [Final Project Assignment](assignment\_final\_project.md).
-  - CollectionBuilder site with 24 objects, appropriate metadata, and contextual page(s).
-  - evaluation memo
-  - presentation video
+	- CollectionBuilder site with 24 objects, appropriate metadata, and contextual page(s).
+	- evaluation memo
+	- presentation video
 
 ## B Grade
 _For a grade of B your prototype must be complete and competent, demonstrate your ability to implement a collection using [CollectionBuilder][cb], and include advanced metadata features beyond simple Dublin Core._
