@@ -5,8 +5,7 @@
 - Where am I?: 
 	- Windows shows you where you are in the file path automatically
    	- Or you can do `cd %HOMEDRIVE%`
- - ../ and ./ or ..\ .\
-	- use `\` on Windows to separate folders in the file path
+ - use `/` or `\` to separate folders
 - change directories
 	- `cd filepath`
 	- example: `cd Desktop/IA` to get to "IA" folder on Desktop
