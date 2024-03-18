@@ -4,7 +4,7 @@
 	- example: typing `dir` while in the Desktop folder will show you all folder and files in Desktop
 - Where am I?: 
 	- Windows shows you where you are in the file path automatically
-   	- Or you can do `cd %HOMEDRIVE%
+   	- Or you can do `cd %HOMEDRIVE%`
  - ../ and ./ or ..\ .\
 	- use `\` on Windows to separate folders in the file path
 - change directories
