@@ -39,3 +39,5 @@ When you are finished, turn this prototype MAP into Canvas as Word, PDF, or Mark
 In the next step, you'll be trading prototype MAPs with a person from the other group. They will use your prototype MAP to create metadata for the items in your group's folder. 
 
 Therefore, write and organize your MAP (aka, your documentation!) knowing that another person will be using it to create metadata! Use headings, lists, tables, etc. to make your documentation easy to navigate and read.
+
+Hello world!
