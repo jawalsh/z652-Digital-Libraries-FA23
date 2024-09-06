@@ -40,4 +40,3 @@ In the next step, you'll be trading prototype MAPs with a person from the other 
 
 Therefore, write and organize your MAP (aka, your documentation!) knowing that another person will be using it to create metadata! Use headings, lists, tables, etc. to make your documentation easy to navigate and read.
 
-Hello world!
